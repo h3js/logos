@@ -4,10 +4,19 @@
 
 | Variant         | SVG                                      | PNG                                     |
 |-----------------|------------------------------------------|-----------------------------------------|
-| h3 (light)      | <img src="./icons/h3_light.svg" width="200"> | <img src="./icons/h3_light.png" width="200"> |
-| h3 (dark)       | <img src="./icons/h3_dark.svg" width="200">  | <img src="./icons/h3_dark.png" width="200">  |
+| h3 (light)      | [<img src="./icons/h3_light.svg" width="200">](./icons/h3_light.svg) | [<img src="./icons/h3_light.png" width="200">](./icons/h3_light.png) |
+| h3 (dark)       | [<img src="./icons/h3_dark.svg" width="200">](./icons/h3_dark.svg)  | [<img src="./icons/h3_dark.png" width="200">](./icons/h3_dark.png)  |
+| h3 (bg)         | [<img src="./icons/h3_bg.svg" width="200">](./icons/h3_bg.svg)    | [<img src="./icons/h3_bg.png" width="200">](./icons/h3_bg.png)    |
 
 </div>
+
+
+## Colors
+
+(inspired from [JavaScript](https://www.schemecolor.com/javascript-logo-colors.php) Logo)
+
+- **primary:** Minion Yellow (`#F0DB4F`)
+- **secondary:** Dark Charcoal (`#323330`)
 
 ## License
 
