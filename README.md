@@ -1,11 +1,13 @@
-# H3 icons
+# 🎨 H3 Logo
 
-## Icons
+<div align="center">
 
-| Icon         | SVG                                      | PNG                                     |
-|--------------|----------------------------------------------------|---------------------------------------------------|
-| h3 (light)   | <img src="./icons/h3_light.svg" width="200">       | <img src="./icons/h3_light.png" width="200">      |
-| h3 (dark)    | <img src="./icons/h3_dark.svg" width="200">        | <img src="./icons/h3_dark.png" width="200">       |
+| Variant         | SVG                                      | PNG                                     |
+|-----------------|------------------------------------------|-----------------------------------------|
+| h3 (light)      | <img src="./icons/h3_light.svg" width="200"> | <img src="./icons/h3_light.png" width="200"> |
+| h3 (dark)       | <img src="./icons/h3_dark.svg" width="200">  | <img src="./icons/h3_dark.png" width="200">  |
+
+</div>
 
 ## License
 
