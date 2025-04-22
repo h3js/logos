@@ -1,11 +1,11 @@
-# h3 design resources
+# H3 icons
 
 ## Icons
 
-| Icon         | Preview (SVG)                                      | Preview (PNG)                                      |
+| Icon         | SVG                                      | PNG                                     |
 |--------------|----------------------------------------------------|---------------------------------------------------|
-| h3 (light)   | [![h3_light](./icons/h3_light.svg)](./icons/h3_light.svg) | [![h3_light](./icons/h3_light.png)](./icons/h3_light.png) |
-| h3 (dark)    | [![h3_dark](./icons/h3_dark.svg)](./icons/h3_dark.svg)            | [![h3_dark](./icons/h3_dark.png)](./icons/h3_dark.png)           |
+| h3 (light)   | <img src="./icons/h3_light.svg" width="200">       | <img src="./icons/h3_light.png" width="200">      |
+| h3 (dark)    | <img src="./icons/h3_dark.svg" width="200">        | <img src="./icons/h3_dark.png" width="200">       |
 
 ## License
 
