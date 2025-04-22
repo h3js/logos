@@ -16,9 +16,10 @@
 (inspired from [JavaScript](https://www.schemecolor.com/javascript-logo-colors.php) Logo)
 
 | Color       | Hex Code   | Preview                                                                                   |
+| Color       | Hex Code   | Preview                                                                                   |
 |-------------|------------|-------------------------------------------------------------------------------------------|
-| **Primary** | `#F0DB4F`  | <div style="width: 30px; height: 30px; background-color: #F0DB4F; border-radius: 50%; display: inline-block; border: 1px solid #000;"></div> |
-| **Secondary** | `#323330` | <div style="width: 30px; height: 30px; background-color: #323330; border-radius: 50%; display: inline-block; border: 1px solid #000;"></div> |
+| **Primary** | `#F0DB4F`  | [<img src="./.colors/primary.svg" width="30" height="30">](./.colors/primary.svg)          |
+| **Secondary** | `#323330` | [<img src="./.colors/secondary.svg" width="30" height="30">](./.colors/secondary.svg)      |
 
 ## License
 
