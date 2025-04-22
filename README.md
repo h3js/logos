@@ -1,5 +1,11 @@
 # h3 design resources
 
+## H3 icon
+
+Credits:
+
+Thimo (https://github.com/ThimoDEV)
+Josje (https://github.com/Uniiscript)
 
 ## License
 
