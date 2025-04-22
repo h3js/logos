@@ -16,7 +16,6 @@
 (inspired from [JavaScript](https://www.schemecolor.com/javascript-logo-colors.php) Logo)
 
 | Color       | Hex Code   | Preview                                                                                   |
-| Color       | Hex Code   | Preview                                                                                   |
 |-------------|------------|-------------------------------------------------------------------------------------------|
 | **Primary** | `#F0DB4F`  | [<img src="./.colors/primary.svg" width="30" height="30">](./.colors/primary.svg)          |
 | **Secondary** | `#323330` | [<img src="./.colors/secondary.svg" width="30" height="30">](./.colors/secondary.svg)      |
