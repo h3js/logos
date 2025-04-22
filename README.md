@@ -15,8 +15,10 @@
 
 (inspired from [JavaScript](https://www.schemecolor.com/javascript-logo-colors.php) Logo)
 
-- **primary:** Minion Yellow (`#F0DB4F`)
-- **secondary:** Dark Charcoal (`#323330`)
+| Color       | Hex Code   | Preview                                                                                   |
+|-------------|------------|-------------------------------------------------------------------------------------------|
+| **Primary** | `#F0DB4F`  | <div style="width: 30px; height: 30px; background-color: #F0DB4F; border-radius: 50%; display: inline-block; border: 1px solid #000;"></div> |
+| **Secondary** | `#323330` | <div style="width: 30px; height: 30px; background-color: #323330; border-radius: 50%; display: inline-block; border: 1px solid #000;"></div> |
 
 ## License
 
