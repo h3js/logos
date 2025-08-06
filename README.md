@@ -1,27 +1,20 @@
-# 🎨 H3 Logo
+# 🎨 H3 Ecosystem Logos
 
 <div align="center">
 
-| Variant         | SVG                                      | PNG                                     |
+| Logo            | SVG                                      | PNG                                     |
 |-----------------|------------------------------------------|-----------------------------------------|
-| h3 (light)      | [<img src="./icons/h3_light.svg" width="200">](./icons/h3_light.svg) | [<img src="./icons/h3_light.png" width="200">](./icons/h3_light.png) |
-| h3 (dark)       | [<img src="./icons/h3_dark.svg" width="200">](./icons/h3_dark.svg)  | [<img src="./icons/h3_dark.png" width="200">](./icons/h3_dark.png)  |
-| h3 (bg)         | [<img src="./icons/h3_bg.svg" width="200">](./icons/h3_bg.svg)    | [<img src="./icons/h3_bg.png" width="200">](./icons/h3_bg.png)    |
+| h3              | [<img src="./icons/h3.svg" width="200">](./icons/h3.svg) | [<img src="./icons/h3.png" width="200">](./icons/h3.png) |
+| srvx            | [<img src="./icons/srvx.svg" width="200">](./icons/srvx.svg) | [<img src="./icons/srvx.png" width="200">](./icons/srvx.png) |
+| rou3            | [<img src="./icons/rou3.svg" width="200">](./icons/rou3.svg) | [<img src="./icons/rou3.png" width="200">](./icons/rou3.png) |
+| crossws         | [<img src="./icons/crossws.svg" width="200">](./icons/crossws.svg) | [<img src="./icons/crossws.png" width="200">](./icons/crossws.png) |
 
 </div>
 
-
-## Colors
-
-(inspired from [JavaScript](https://www.schemecolor.com/javascript-logo-colors.php) Logo)
-
-| Color       | Hex Code   | Preview                                                                                   |
-|-------------|------------|-------------------------------------------------------------------------------------------|
-| **Primary** | `#F0DB4F`  | [<img src="./.colors/primary.svg" width="30" height="30">](./.colors/primary.svg)          |
-| **Secondary** | `#323330` | [<img src="./.colors/secondary.svg" width="30" height="30">](./.colors/secondary.svg)      |
-
 ## License
 
-H3 icon designed by Thimo ([@ThimoDEV](https://github.com/ThimoDEV)) and Josje ([@Uniiscript](https://github.com/Uniiscript))
+h3, srvx, rou3 and crossws logos are designed by Sébastien Chopin ([@Atinux](https://github.com/atinux)).
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">H3 designs</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+Previous h3 logo was designed by Thimo ([@ThimoDEV](https://github.com/ThimoDEV)) and Josje ([@Uniiscript](https://github.com/Uniiscript)).
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">H3 designs</span> are licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
